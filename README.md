@@ -56,36 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚡ AI-Based Peak Load Forecasting & Demand Response Optimization
-
-- Developed machine learning models to forecast electricity demand.
-- Achieved high prediction accuracy using historical energy consumption data.
-- Built an interactive dashboard for data visualization and analysis.
-- Applied feature engineering and predictive analytics techniques.
-
----
-
-### 🧠 Brain Tumor Detection using Deep Learning
-
-- Built an AI-powered system to detect brain tumors from MRI images.
-- Utilized Convolutional Neural Networks (CNNs) for image classification.
-- Performed image preprocessing and model training for improved prediction accuracy.
-- Designed to assist in early diagnosis and medical decision support.
-
----
-
-### 🌾 KisanPay
-
-- Digital payment and agriculture support platform designed specifically for farmers.
-- Inspired by modern payment applications like PhonePe and Google Pay.
-- Provides crop-related assistance and farmer-centric services.
-- Focused on improving accessibility and financial inclusion in agriculture.
-
----
-
-
 
 ## 📊 GitHub Analytics
 
@@ -95,31 +65,17 @@
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AishwaryaShelke1911&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaShelke1911&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AishwaryaShelke1911/AishwaryaShelke1911/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AishwaryaShelke1911/AishwaryaShelke1911/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
-
-## 🎯 2026 Goals
-
-- Master Data Structures & Algorithms
-- Build Advanced AI/ML Projects
-- Strengthen Frontend Development Skills
-- Contribute to Open Source Projects
-- Secure an AI/ML Internship
-- Participate in More National-Level Hackathons
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
